@@ -1,0 +1,2 @@
+baseurl: /t-site
+exclude: ['README.md', '.gitignore']
